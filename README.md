@@ -9,3 +9,8 @@ A Natural Language Processing Model used for Easy Reading through The Medical Pa
 Paper Implemented - https://arxiv.org/pdf/1710.06071
 Neural Networks for Joint Sentence Classification
 in Medical Paper Abstracts - https://aclanthology.org/E17-2110.pdf
+
+# Training Procedur of SkimLit-PubMed-RCT-200 
+![image](https://github.com/Swastik-Swarup-Dash/SkimLit-PubMed-RCT-200/assets/143310346/1dcff467-bbe1-43e6-947e-8928773e0109)
+
+
